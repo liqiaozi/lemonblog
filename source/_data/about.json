@@ -1,0 +1,44 @@
+{
+    "avatar": "http://p3.music.126.net/_2CmjbuNTmbnlEhHqOG7Pw==/18923694626218379.jpg?param=300y300",
+    "name": "李乔子的酒",
+	"tag": "Web服务端 SpringBoot SpringCloud",
+    "desc": "努力使自己变得更优秀",
+    "skills": {
+        "Java": 6,
+		"SpringBoot": 5,
+		
+		"SpringCloud": 5,
+
+		"ES": 4
+    },
+    "projects": [
+    	{
+			"name": "SpringBoot学习",
+			"image": "https://spring.io//img/homepage/icon-spring-boot.svg",
+			"tags": [],
+			"description": "Spring Boot takes an opinionated view of building production ready applications",
+			"link_text": "SpringBoot",
+			"link": "https://spring.io/projects/spring-boot"
+		}, 
+		{
+			"name": "SpringCloud",
+			"image": "https://spring.io//img/homepage/icon-spring-cloud.svg",
+			"description": "Spring Cloud is built on top of Spring Boot, making it easy for developers to get started and become productive quickly.",
+			"tags": [],
+			"link_text": "SpringCloud",
+			"link": "https://projects.spring.io/spring-cloud/"
+		}, 
+		{
+			"name": "RocketMQ",
+			"image": "http://rocketmq.apache.org//assets/images/bright/rmq-feature-lowlatency.png",
+			"description": "RocketMQ 是一个队列模型的消息中间件，具有高性能、高可靠、高实时、分布式特点",
+			"tags": [],
+			"link_text": "RocketMQ",
+			"link": "http://rocketmq.apache.org/"
+		}
+
+	],
+	"reward": [
+	    
+	]
+}

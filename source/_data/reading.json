@@ -1,0 +1,38 @@
+{
+    "define": {
+	    "readed": "已读",
+        "reading": "在读",
+        "wanted": "想读"
+    },
+    "contents": {
+        "readed": [
+        	{
+	            "title": "Spring Cloud微服务实战0",
+	            "cover": "http://img14.360buyimg.com/n1/jfs/t4483/332/2284794111/122812/4bf353/58ed7f42Nf16d6b20.jpg",
+	            "review": "面向生产的一站式解决方案 领航微服务低成本转型实践(待优化,提供百度云盘下载)",
+	            "score": "7",
+	            "doubanLink": "https://item.jd.com/12172344.html"
+        	}
+        ],
+		
+		"reading": [
+			{
+	            "title": "Spring Cloud微服务实战1",
+	            "cover": "http://img14.360buyimg.com/n1/jfs/t4483/332/2284794111/122812/4bf353/58ed7f42Nf16d6b20.jpg",
+	            "review": "面向生产的一站式解决方案 领航微服务低成本转型实践",
+	            "score": "7",
+	            "doubanLink": "https://item.jd.com/12172344.html"
+        	}
+        ],
+
+        "wanted": [
+        	{
+	            "title": "Spring Cloud微服务实战2",
+	            "cover": "http://img14.360buyimg.com/n1/jfs/t4483/332/2284794111/122812/4bf353/58ed7f42Nf16d6b20.jpg",
+	            "review": "面向生产的一站式解决方案 领航微服务低成本转型实践",
+	            "score": "7",
+	            "doubanLink": "https://item.jd.com/12172344.html"
+        	}
+        ]
+    }
+}
