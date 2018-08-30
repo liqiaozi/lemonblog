@@ -1,8 +1,8 @@
 ---
 title:  RocketMQ系列01--简介及概念
-date:  2018-08-27 
+date:  2018-08-25 
 categories:  RocketMQ 
-tags: rocketmq ; 概念
+tags: [rocketmq,概念]
 ---
 
 

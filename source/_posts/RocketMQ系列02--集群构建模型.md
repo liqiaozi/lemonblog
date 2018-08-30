@@ -1,8 +1,8 @@
 ---
 title:  RocketMQ系列02--集群构建模型
-date:  2018-08-27 
+date:  2018-08-26 
 categories:  RocketMQ 
-tags: rocketmq ; 集群 
+tags: [rocketmq ,集群] 
 ---
 
 

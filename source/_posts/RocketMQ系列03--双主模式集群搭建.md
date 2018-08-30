@@ -2,7 +2,7 @@
 title:  RocketMQ系列03--双主模式集群搭建(2m-noslave)
 date:  2018-08-27 
 categories:  RocketMQ 
-tags: rocketmq   集群  2m-noslave 
+tags: [rocketmq ,集群 ,2m-noslave] 
 ---
 
 # 0.前言 #
